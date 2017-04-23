@@ -38,6 +38,11 @@ public class MainActivity extends AppCompatActivity {
         String branch3 = "ttt";
     }
 
+    private int YetAnother() {
+        return 123;
+
+    }
+  
     private void TestSlaveBranch() {
 
         int i = 9;
@@ -45,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
         int j = i + i;
 
         String t = "THIS NEEDS TO MATCH";
+
     }
 
     @Override
