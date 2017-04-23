@@ -32,6 +32,11 @@ public class MainActivity extends AppCompatActivity {
 
         int i = 1 + 1;
     }
+    
+    private void TestBranch3() {
+    
+        String branch3 = "ttt";
+    }
 
     private void TestSlaveBranch() {
 
