@@ -43,6 +43,8 @@ public class MainActivity extends AppCompatActivity {
         int i = 9;
 
         int j = i + i;
+
+        String t = "THIS NEEDS TO MATCH";
     }
 
     @Override
