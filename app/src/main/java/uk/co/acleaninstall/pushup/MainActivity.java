@@ -40,6 +40,17 @@ public class MainActivity extends AppCompatActivity {
 
     private int YetAnother() {
         return 123;
+
+    }
+  
+    private void TestSlaveBranch() {
+
+        int i = 9;
+
+        int j = i + i;
+
+        String t = "THIS NEEDS TO MATCH";
+
     }
 
     @Override
