@@ -28,30 +28,6 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    private void TestPush() {
-
-        int i = 1 + 1;
-    }
-    
-    private void TestBranch3() {
-    
-        String branch3 = "ttt";
-    }
-
-    private int YetAnother() {
-        return 123;
-
-    }
-  
-    private void TestSlaveBranch() {
-
-        int i = 9;
-
-        int j = i + i;
-
-        String t = "THIS NEEDS TO MATCH";
-
-    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
